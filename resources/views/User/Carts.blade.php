@@ -8,12 +8,14 @@
 <body>
 @extends('layouts.User')
 
-@section('title', 'User Page')
+@section('title', 'Cart')
 
 @section('content')
-    <h2>Checkout</h2>
-    <p>This is Checkout content</p>
+
+<h1>Cart Page</h1>
+<br>
+<br>
+
 @endsection
-    
 </body>
 </html>
